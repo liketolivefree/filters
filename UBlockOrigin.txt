@@ -1,6 +1,11 @@
 no-csp-reports: * true
 no-large-media: behind-the-scene false
+* ape-asset-tag.timeinc.com * block
+* tiads.timeinc.net * block
+* tinypass.com * block
+* widgets.getpocket.com * block
 * seal-indy.bbb.org * block
+* cdn-fc.com * block
 * omnisnippet1.com * block
 * js.smile.io * block
 * 126.net * block
