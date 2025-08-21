@@ -1,4 +1,9 @@
+||ape-asset-tag.timeinc.com^
+||tiads.timeinc.net^
+||tinypass.com^
+||widgets.getpocket.com^
 ||seal-indy.bbb.org^
+||cdn-fc.com^
 ||omnisnippet1.com^
 ||js.smile.io^
 ||126.net^
