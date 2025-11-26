@@ -2001,17 +2001,6 @@
           ],
           "temp": false
         },
-        "§:fmovies.ro": {
-          "capabilities": [
-            "frame",
-            "noscript",
-            "other",
-            "script",
-            "media",
-            "fetch"
-          ],
-          "temp": false
-        },
         "§:jwpcdn.com": {
           "capabilities": [
             "frame",
@@ -2029,29 +2018,6 @@
             "noscript",
             "other",
             "script"
-          ],
-          "temp": false
-        },
-        "§:videostr.net": {
-          "capabilities": [
-            "frame",
-            "fetch",
-            "noscript",
-            "other",
-            "script",
-            "media"
-          ],
-          "temp": false
-        },
-        "§:erome.com": {
-          "capabilities": [
-            "frame",
-            "fetch",
-            "noscript",
-            "other",
-            "media",
-            "script",
-            "font"
           ],
           "temp": false
         },
@@ -2074,39 +2040,7 @@
             "script"
           ],
           "temp": false
-        },
-        "§:offmp3.com": {
-          "capabilities": [
-            "frame",
-            "fetch",
-            "noscript",
-            "other",
-            "script"
-          ],
-          "temp": false
-        },
-        "§:xvideos-cdn.com": {
-          "capabilities": [
-            "frame",
-            "fetch",
-            "noscript",
-            "other",
-            "media",
-            "script"
-          ],
-          "temp": false
-        },
-        "§:xvideos.com": {
-          "capabilities": [
-            "fetch",
-            "noscript",
-            "other",
-            "script",
-            "media"
-          ],
-          "temp": false
         }
-      }
     },
     "enforced": true,
     "autoAllowTop": false
