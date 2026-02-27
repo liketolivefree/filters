@@ -1,4 +1,3 @@
-*.workgroup
 *adcenter*
 *adclick*
 *adebis*
@@ -11,6 +10,7 @@
 *adservice*
 *advertising*
 *analytic*
+*analytics*
 *clickad*
 *crash-reports*
 *crash-stats*
@@ -32,6 +32,8 @@
 1drv.*
 ad.*
 ads.*
+analytic.*
+analytics.*
 banner.*
 banners.*
 blogger.*
@@ -57,6 +59,7 @@ msn.*
 oascentral.*
 omni.*
 oms.*
+opengraph.*
 pixel.*
 pixels.*
 promo.*
