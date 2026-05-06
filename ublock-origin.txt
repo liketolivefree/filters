@@ -1729,7 +1729,6 @@ no-large-media: behind-the-scene false
 * smartlock.google.com * block
 * tagmanager.google.com * block
 * toolbar.google.com * block
-* google.com * block
 * google.de * block
 * google.fr * block
 * google.jp * block
