@@ -1727,7 +1727,6 @@
 ||smartlock.google.com^$document
 ||tagmanager.google.com^$document
 ||toolbar.google.com^$document
-||google.com^$document
 ||google.de^$document
 ||google.fr^$document
 ||google.jp^$document
