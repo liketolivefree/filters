@@ -1814,8 +1814,6 @@
 ||fonts.gstatic.com^$document
 ||metric.gstatic.com^$document
 ||ssl.gstatic.com^$document
-||www.gstatic.com^$document
-||gstatic.com^$document
 ||gstatic.net^$document
 ||gstatic.org^$document
 ||gstatic-cn.com^$document
