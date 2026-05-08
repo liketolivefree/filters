@@ -106,7 +106,6 @@ grammarly.*
 graph.*
 gravitec.*
 green-acres.*
-gstatic.*
 hicloud.c*
 hotjar.*
 hotmail.*
@@ -2734,7 +2733,6 @@ sail-horizon.com
 sail-personalize.com
 sailthru.com
 sail-track.com
-salesforce.com
 salesloft.com
 salesloft.com.cdn.cloudflare.net
 salesmanago.com
@@ -3251,7 +3249,6 @@ variations.bravesoftware.com
 varzesh360.co
 veih8bee.xhcdn.com
 venturingangler.com
-vercel.app
 vercel-dns.com
 vercel-insights.com
 verifycdn.agego.com
@@ -3502,7 +3499,6 @@ ip.sb
 kesug.com
 lovestoblog.com
 mianfeijiedianscp.buzz
-pages.dev
 pp.ua
 pugovkabooster.com
 qzz.io
