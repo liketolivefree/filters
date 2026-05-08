@@ -2861,7 +2861,6 @@
 ||page.com^$document
 ||page.link^$document
 ||page.tl^$document
-||pages.dev^$document
 ||pair2jeux.tube^$document
 ||pardot.com^$document
 ||parkingcrew.com^$document
