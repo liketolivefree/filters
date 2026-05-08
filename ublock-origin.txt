@@ -1816,8 +1816,6 @@ no-large-media: behind-the-scene false
 * fonts.gstatic.com * block
 * metric.gstatic.com * block
 * ssl.gstatic.com * block
-* www.gstatic.com * block
-* gstatic.com * block
 * gstatic.net * block
 * gstatic.org * block
 * gstatic-cn.com * block
@@ -2863,7 +2861,6 @@ no-large-media: behind-the-scene false
 * page.com * block
 * page.link * block
 * page.tl * block
-* pages.dev * block
 * pair2jeux.tube * block
 * pardot.com * block
 * parkingcrew.com * block
