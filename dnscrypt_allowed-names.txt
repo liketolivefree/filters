@@ -13,13 +13,10 @@ cac-ocsp.digicert.com.edgekey.net
 captive-cidr.origin-apple.com.akadns.net
 captive-geo.origin-apple.com.akadns.net
 certum.pl.edgekey.net
-cf-wkrs-pages-vless-aoy.pages.dev
 chopsdash.appspot.com
 chrome-devtools-frontend.appspot.com
 chrome.google.com
 chromewebstore.google.com
-cloudflare-scanner.vercel.app
-cloudflare-v2ray.vercel.app
 code.google.com
 componentupdater.brave.com
 connectivity.cloudflareclient.com
@@ -62,7 +59,6 @@ download.visualstudio.microsoft.com
 dqpnq362acqdi.cloudfront.net
 drive.google.com
 dzfhplmnzln68.cloudfront.net
-edtunnel-b6t.pages.dev
 encrypted.google.com
 extensionupdater.brave.com
 go-updater-1830831421.us-west-2.elb.amazonaws.com
@@ -75,15 +71,12 @@ learn-public.trafficmanager.net
 learn.microsoft.com
 letsencrypt.org.edgekey.net
 mail.google.com
-malware-filter.pages.dev
 maps.google.com
 ocsp.certum.pl.edgekey.net
 ocsp.digicert.com
 oed-backends-prod-1787680914.eu-west-1.elb.amazonaws.com
 onegetcdn.azureedge.net
-phishing-filter.pages.dev
 photos.google.com
-piracy.vercel.app
 pki-goog.l.google.com
 play.google.com
 powershellgallery.azureedge.net
@@ -92,7 +85,6 @@ sb-ssl.brave.com
 scholar.google.com
 scholar.l.google.com
 shaka-player-demo.appspot.com
-sing-box-subscribe-doraemon.vercel.app
 sites.google.com
 studiosol.edgesuite.net
 support.apple.com
@@ -134,7 +126,6 @@ translate.google.com
 translate.googleapis.com
 trends.google.com
 trk.free.fr
-ublockorigin.pages.dev
 udp.tracker.projectk.org
 updates.bravesoftware.com
 use-stls.adobe.com.edgesuite.net
