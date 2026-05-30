@@ -4001,6 +4001,9 @@ no-large-media: behind-the-scene false
 * blog.faradars.org * block
 * mtmo.blog.faradars.org * block
 * 人民机场.shop * block
+* blogherads.com * block
+* iabusprivacy.pmc.com * block
+* qalam.group * block
 behind-the-scene * * noop
 behind-the-scene * 1p-script noop
 behind-the-scene * 3p noop
