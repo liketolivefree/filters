@@ -1,4 +1,4 @@
-===> filters for "Brave" browser:
+===> **filters for "Brave" browser:**
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/brave-browser.txt
 
@@ -6,15 +6,14 @@ https://raw.githubusercontent.com/liketolivefree/filters/main/brave-browser.txt
 .
 
 
-===> filters for "dnscrypt-proxy" app:
+===> **filters for "dnscrypt-proxy" app:**
 
-domains to be blocked:
+__domains to be blocked:__
   
 https://raw.githubusercontent.com/liketolivefree/filters/main/dnscrypt_blocked-names.txt
 
 
-
-not blocked domains:
+__not blocked domains:__
   
 https://raw.githubusercontent.com/liketolivefree/filters/main/dnscrypt_allowed-names.txt
 
@@ -22,7 +21,7 @@ https://raw.githubusercontent.com/liketolivefree/filters/main/dnscrypt_allowed-n
 .
 
 
-===> hosts for "Clash" condigs:
+===> **hosts for "Clash" condigs:**
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/hosts_dns_clash.yaml
 
@@ -30,7 +29,7 @@ https://raw.githubusercontent.com/liketolivefree/filters/main/hosts_dns_clash.ya
 .
 
 
-===>  hosts for "Singbox" condigs:
+===>  **hosts for "Singbox" condigs:**
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/hosts_dns_sing-box.json
 
@@ -38,7 +37,7 @@ https://raw.githubusercontent.com/liketolivefree/filters/main/hosts_dns_sing-box
 .
 
 
-===>  hosts for "V2ray" condigs:
+===>  **hosts for "V2ray" condigs:**
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/hosts_dns_v2ray.txt
 
@@ -46,7 +45,7 @@ https://raw.githubusercontent.com/liketolivefree/filters/main/hosts_dns_v2ray.tx
 .
 
 
-===> settings and untrusted domains list for "noscript" browser extension:
+===> **settings and untrusted domains list for "noscript" browser extension:**
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/noscript.json
 
@@ -54,7 +53,7 @@ https://raw.githubusercontent.com/liketolivefree/filters/main/noscript.json
 .
 
 
-===> rules for "ublock-origin" browser extension:
+===> **rules for "ublock-origin" browser extension:**
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/ublock-origin.txt
 
@@ -62,7 +61,7 @@ https://raw.githubusercontent.com/liketolivefree/filters/main/ublock-origin.txt
 .
 
 
-===> hosts for "Windows":
+===> **hosts for "Windows":**
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/windows-hosts
 
