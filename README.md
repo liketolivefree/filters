@@ -1,72 +1,73 @@
-===> for Brave browser:
+===> filters for "Brave" browser:
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/brave-browser.txt
 
 
-. . . . . . . . . 
 
 
-===> filters for dnscrypt-proxy app:
 
-  blocked-names.txt:
+===> filters for "dnscrypt-proxy" app:
+
+domains to be blocked:
   
 https://raw.githubusercontent.com/liketolivefree/filters/main/dnscrypt_blocked-names.txt
 
 
-  allowed-names.txt
+
+not blocked domains:
   
 https://raw.githubusercontent.com/liketolivefree/filters/main/dnscrypt_allowed-names.txt
 
 
-. . . . . . . . . 
 
 
-===> hosts for Clash condigs:
+
+===> hosts for "Clash" condigs:
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/hosts_dns_clash.yaml
 
 
-. . . . . . . . . 
 
 
-===>  hosts for Singbox condigs:
+
+===>  hosts for "Singbox" condigs:
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/hosts_dns_sing-box.json
 
 
-. . . . . . . . . 
 
 
-===>  hosts for V2ray condigs:
+
+===>  hosts for "V2ray" condigs:
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/hosts_dns_v2ray.txt
 
 
-. . . . . . . . . 
 
 
-===> domain list and settings for Noscript browser extension:
+
+===> settings and untrusted domains list for "noscript" browser extension:
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/noscript.json
 
 
-. . . . . . . . . 
 
 
-===> rules for ublock-origin browser extension:
+
+===> rules for "ublock-origin" browser extension:
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/ublock-origin.txt
 
 
-. . . . . . . . . 
 
 
-===> hosts for Windows:
+
+===> hosts for "Windows":
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/windows-hosts
 
 
-. . . . . . . . . 
+
 
 
 
@@ -89,4 +90,5 @@ https://raw.githubusercontent.com/liketolivefree/filters/main/no-samsung.txt
 https://raw.githubusercontent.com/liketolivefree/filters/main/no-xiaomi.txt
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/no-yahoo.txt
+
 
