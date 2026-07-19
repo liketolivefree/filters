@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/liketolivefree/filters/main/windows-hosts
 .
 
 
-===> Other extensive filters (plain domains):
+===> **Other extensive filters (plain domains):**
 
 https://raw.githubusercontent.com/liketolivefree/filters/main/no-amazon.txt
 
