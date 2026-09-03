@@ -22,10 +22,10 @@ log_files_max_size = 10
 log_files_max_age = 7
 log_files_max_backups = 1
 cert_refresh_delay = 240
-bootstrap_resolvers = ['149.112.112.112:53', '8.8.8.8:53']
+bootstrap_resolvers = ['9.9.9.9:53', '8.8.8.8:53']
 ignore_system_dns = true
 netprobe_timeout = 60
-netprobe_address = '9.9.9.9:53'
+netprobe_address = '1.1.1.1:53'
 block_ipv6 = true
 block_unqualified = true
 block_undelegated = true
@@ -109,3 +109,18 @@ fragments_blocked = [
   'cleanbrowsing-security',
   'cleanbrowsing-security-ipv6',
 ]
+[doh_client_x509_auth]
+[anonymized_dns]
+skip_incompatible = false
+[ip_encryption]
+algorithm = "none"
+key = ""
+[monitoring_ui]
+enabled = true
+listen_address = "127.0.0.1:8080"
+username = "k1aboo"
+password = "choob2kun"
+tls_certificate = ""
+tls_key = ""
+enable_query_log = true
+privacy_level = 0
